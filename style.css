@@ -44,15 +44,6 @@ img{
 	cursor: pointer; /* when cursor is placed on this div it will change into hand-icon */
 }
 
- a {
-	text-decoration: none;
-	color: black;
-}
-
-a:hover {
-	color: grey;
-}
-
 #next:hover {
 	background: green;
 }
